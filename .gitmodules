@@ -1,3 +1,6 @@
 [submodule "tx-origin-sender-mismatch-detector/lib/contracts"]
 	path = tx-origin-sender-mismatch-detector/lib/contracts
 	url = https://github.com/drosera-network/contracts
+[submodule "compound-health-trap"]
+	path = compound-health-trap
+	url = https://github.com/deeanalyst/Compound-Health-Trap.git
