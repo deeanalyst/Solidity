@@ -1,0 +1,12 @@
+{
+  "name": "tx-origin-sender-mismatch-detector",
+  "description": "Drosera trap that detects when tx.origin != msg.sender, indicating potential phishing or proxy-based attacks",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "forge-std": "github:foundry-rs/forge-std#v1.8.1"
+  },
+  "dependencies": {
+    "drosera-contracts": "https://github.com/drosera-network/contracts"
+  }
+}
+

@@ -1,0 +1,6 @@
+[trap]
+path = "src/TxOriginMismatchTrap.sol"
+response_contract = "0x0000000000000000000000000000000000000000"  # Update with deployed response contract address
+response_function = "executeResponse"
+whitelist = []  # Add operator addresses that can call collect() function
+
