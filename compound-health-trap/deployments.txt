@@ -1,0 +1,20 @@
+Hoodi Network Deployment Records
+
+[MockUnderlyingToken - FOXTROT]
+Address: 0xA4020D39373A5664C876043AABf78091803650cA
+Transaction Hash: 0xd25781ecd1822194a2cb173b45219f2b401ab0a58aa4be2d4f5f98b0a137372a
+
+[MockCToken]
+Address: 0x423749DE4FD2863A84850FD262296179fB81d5Bc
+Transaction Hash: 0xbbc2599a9ee72646b91ec7ba78a4df1440c7624c6a7251dd3c864ad572862542
+
+[MockComptroller]
+Address: 0x3279cf72FD2bFbd2604764B625A68646E6cd4E98
+Transaction Hash: 0x95c785baf53b6eaa1e7692f7a417e3922ecdea0aa3434b19c0c087ad1eaf6c8b
+
+[Response Contract]
+Address: 0x73AFD0D1377D0bA745a2a3f26e887F9Dad26AF2F
+Transaction Hash: 0x350804147d05de6e9886042eb73159de6b845419fbafdf58db8cd62c6e0e71b5
+
+[Funding Transaction - 1000 FOXTROT to Response Contract]
+Transaction Hash: 0x6c65d5fe1b5e3ff3d2aaeb2dfe341c552d25c31ed9dc58a4a9d650c3824c40cf

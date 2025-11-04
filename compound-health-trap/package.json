@@ -1,0 +1,17 @@
+{
+  "name": "compound-health-guardian-trap",
+  "version": "1.0.0",
+  "description": "A Drosera trap to monitor Compound account health.",
+  "main": "index.js",
+  "scripts": {
+    "test": "forge test"
+  },
+  "keywords": [
+    "drosera",
+    "foundry",
+    "solidity",
+    "compound"
+  ],
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,28 @@
+# See https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+[profile.default]
+auto_detect_solc = false
+bytecode_hash = "none"
+cbor_metadata = false
+fuzz = { runs = 256 }
+gas_reports = ["*"]
+optimizer = true
+optimizer_runs = 10_000
+solc = "0.8.24"
+src = "src"
+test = "test"
+
+[profile.intense]
+fuzz = { runs = 10_000 }
+
+[fmt]
+bracket_spacing = true
+int_types = "long"
+line_length = 120
+multiline_func_header = "all"
+number_underscore = "thousands"
+quote_style = "double"
+tab_width = 4
+wrap_comments = true
+
+[rpc_endpoints]
+sepolia = "https://sepolia.infura.io/v3/${API_KEY_INFURA}"
